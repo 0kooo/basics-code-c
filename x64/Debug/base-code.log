@@ -1,3 +1,2 @@
-﻿  Cube.cpp
-Student.obj : error LNK2005: main 已经在 Cube.obj 中定义
-E:\cod\c++\base-code\x64\Debug\base-code.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿  rewrite++And--.cpp
+  base-code.vcxproj -> E:\cod\c++\base-code\x64\Debug\base-code.exe

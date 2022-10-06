@@ -1,24 +1,24 @@
-#include<iostream>
-using namespace std;
-#include<string>
-class Student {
-public:
-	string Name;
-	int Id;
-	void setData(string name, int id) {
-		Name = name;
-		Id = id; 
-	}
-	void getData() {
-		cout << "姓名: " << Name << endl;
-		cout << "学号: " << Id << endl;
-	}
-};
-
-int main() {
-	Student s;
-	s.setData("zhangsan", 10);
-	s.getData();
-	system("pause");
-	return 0;
-}
+//#include<iostream>
+//using namespace std;
+//#include<string>
+//class Student {
+//public:
+//	string Name;
+//	int Id;
+//	void setData(string name, int id) {
+//		Name = name;
+//		Id = id; 
+//	}
+//	void getData() {
+//		cout << "姓名: " << Name << endl;
+//		cout << "学号: " << Id << endl;
+//	}
+//};
+//
+//int main() {
+//	Student s;
+//	s.setData("zhangsan", 10);
+//	s.getData();
+//	system("pause");
+//	return 0;
+//}

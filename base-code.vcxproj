@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="circleAndDot.cpp" />
     <ClCompile Include="Cube.cpp" />
+    <ClCompile Include="rewrite++And--.cpp" />
     <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
